@@ -6,5 +6,4 @@ They will infiltrate the enemy headquarters and defeat the mastermind.
 
 testing
 
-I don´t know who will win the confrontation!
-
+I don´t know the outcome of the fight
